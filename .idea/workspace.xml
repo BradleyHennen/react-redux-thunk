@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46c5d6d0-ebbc-4356-bbde-5f0448e4212f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/untitled.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/react-redux-think.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
@@ -18,7 +20,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../react-redux-thunk" />
   </component>
   <component name="ProjectId" id="1SbzbkiGdgkMb9CMRqPXmx0J4bk" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -69,7 +71,7 @@
       <option name="presentableId" value="Default" />
       <updated>1571847157133</updated>
       <workItem from="1571847159870" duration="657000" />
-      <workItem from="1571865778518" duration="362000" />
+      <workItem from="1571865778518" duration="2368000" />
     </task>
     <servers />
   </component>
